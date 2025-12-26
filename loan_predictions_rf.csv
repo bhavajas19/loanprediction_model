@@ -1,0 +1,368 @@
+Loan_ID,Loan_Status_Prediction
+LP001015,Approved
+LP001022,Approved
+LP001031,Approved
+LP001035,Approved
+LP001051,Approved
+LP001054,Approved
+LP001055,Approved
+LP001056,Not Approved
+LP001059,Approved
+LP001067,Approved
+LP001078,Approved
+LP001082,Approved
+LP001083,Approved
+LP001094,Not Approved
+LP001096,Approved
+LP001099,Approved
+LP001105,Approved
+LP001107,Approved
+LP001108,Approved
+LP001115,Approved
+LP001121,Approved
+LP001124,Approved
+LP001128,Approved
+LP001135,Approved
+LP001149,Approved
+LP001153,Not Approved
+LP001163,Approved
+LP001169,Approved
+LP001174,Approved
+LP001176,Approved
+LP001177,Approved
+LP001183,Approved
+LP001185,Approved
+LP001187,Approved
+LP001190,Approved
+LP001203,Not Approved
+LP001208,Approved
+LP001210,Approved
+LP001211,Approved
+LP001219,Approved
+LP001220,Approved
+LP001221,Approved
+LP001226,Approved
+LP001230,Approved
+LP001231,Approved
+LP001232,Approved
+LP001237,Approved
+LP001242,Approved
+LP001268,Approved
+LP001270,Approved
+LP001284,Approved
+LP001287,Approved
+LP001291,Approved
+LP001298,Approved
+LP001312,Approved
+LP001313,Not Approved
+LP001317,Approved
+LP001321,Approved
+LP001323,Not Approved
+LP001324,Approved
+LP001332,Approved
+LP001335,Approved
+LP001338,Approved
+LP001347,Not Approved
+LP001348,Approved
+LP001351,Approved
+LP001352,Not Approved
+LP001358,Not Approved
+LP001359,Approved
+LP001361,Not Approved
+LP001366,Approved
+LP001368,Approved
+LP001375,Approved
+LP001380,Approved
+LP001386,Approved
+LP001400,Approved
+LP001407,Approved
+LP001413,Approved
+LP001415,Approved
+LP001419,Approved
+LP001420,Not Approved
+LP001428,Approved
+LP001445,Not Approved
+LP001446,Approved
+LP001450,Not Approved
+LP001452,Approved
+LP001455,Approved
+LP001466,Approved
+LP001471,Approved
+LP001472,Approved
+LP001475,Approved
+LP001483,Approved
+LP001486,Approved
+LP001490,Approved
+LP001496,Not Approved
+LP001499,Approved
+LP001500,Approved
+LP001501,Approved
+LP001517,Approved
+LP001527,Approved
+LP001534,Approved
+LP001542,Not Approved
+LP001547,Approved
+LP001548,Not Approved
+LP001558,Approved
+LP001561,Approved
+LP001563,Not Approved
+LP001567,Approved
+LP001568,Approved
+LP001573,Approved
+LP001584,Approved
+LP001587,Approved
+LP001589,Approved
+LP001591,Approved
+LP001599,Approved
+LP001601,Approved
+LP001607,Approved
+LP001611,Not Approved
+LP001613,Not Approved
+LP001622,Not Approved
+LP001627,Approved
+LP001650,Approved
+LP001651,Approved
+LP001652,Not Approved
+LP001655,Not Approved
+LP001660,Approved
+LP001662,Not Approved
+LP001663,Approved
+LP001667,Approved
+LP001695,Approved
+LP001703,Approved
+LP001718,Approved
+LP001728,Approved
+LP001735,Approved
+LP001737,Approved
+LP001739,Approved
+LP001742,Approved
+LP001757,Approved
+LP001769,Approved
+LP001771,Approved
+LP001785,Not Approved
+LP001787,Approved
+LP001789,Not Approved
+LP001791,Approved
+LP001794,Approved
+LP001797,Approved
+LP001815,Approved
+LP001817,Not Approved
+LP001818,Approved
+LP001822,Approved
+LP001827,Approved
+LP001831,Approved
+LP001842,Approved
+LP001853,Not Approved
+LP001855,Approved
+LP001857,Approved
+LP001862,Approved
+LP001867,Approved
+LP001878,Approved
+LP001881,Approved
+LP001886,Approved
+LP001906,Not Approved
+LP001909,Approved
+LP001911,Not Approved
+LP001921,Approved
+LP001923,Not Approved
+LP001933,Not Approved
+LP001943,Approved
+LP001950,Not Approved
+LP001959,Not Approved
+LP001961,Approved
+LP001973,Approved
+LP001975,Approved
+LP001979,Not Approved
+LP001995,Not Approved
+LP001999,Approved
+LP002007,Approved
+LP002009,Approved
+LP002016,Approved
+LP002017,Approved
+LP002018,Approved
+LP002027,Approved
+LP002028,Approved
+LP002042,Approved
+LP002045,Approved
+LP002046,Approved
+LP002047,Approved
+LP002056,Approved
+LP002057,Approved
+LP002059,Approved
+LP002062,Approved
+LP002064,Approved
+LP002069,Not Approved
+LP002070,Not Approved
+LP002077,Approved
+LP002083,Approved
+LP002090,Not Approved
+LP002096,Approved
+LP002099,Not Approved
+LP002102,Approved
+LP002105,Approved
+LP002107,Approved
+LP002111,Approved
+LP002117,Approved
+LP002118,Approved
+LP002123,Approved
+LP002125,Approved
+LP002148,Approved
+LP002152,Approved
+LP002165,Approved
+LP002167,Approved
+LP002168,Not Approved
+LP002172,Approved
+LP002176,Approved
+LP002183,Approved
+LP002184,Approved
+LP002186,Approved
+LP002192,Approved
+LP002195,Approved
+LP002208,Approved
+LP002212,Approved
+LP002240,Approved
+LP002245,Not Approved
+LP002253,Approved
+LP002256,Not Approved
+LP002257,Approved
+LP002264,Approved
+LP002270,Approved
+LP002279,Approved
+LP002286,Not Approved
+LP002294,Approved
+LP002298,Approved
+LP002306,Approved
+LP002310,Approved
+LP002311,Approved
+LP002316,Not Approved
+LP002321,Not Approved
+LP002325,Approved
+LP002326,Approved
+LP002329,Not Approved
+LP002333,Approved
+LP002339,Not Approved
+LP002344,Approved
+LP002346,Not Approved
+LP002354,Approved
+LP002355,Not Approved
+LP002358,Approved
+LP002360,Approved
+LP002375,Approved
+LP002376,Not Approved
+LP002383,Not Approved
+LP002385,Approved
+LP002389,Approved
+LP002394,Approved
+LP002397,Approved
+LP002399,Not Approved
+LP002400,Approved
+LP002402,Approved
+LP002412,Approved
+LP002415,Approved
+LP002417,Approved
+LP002420,Approved
+LP002425,Approved
+LP002433,Approved
+LP002440,Approved
+LP002441,Approved
+LP002442,Not Approved
+LP002445,Approved
+LP002450,Not Approved
+LP002471,Approved
+LP002476,Approved
+LP002482,Approved
+LP002485,Approved
+LP002495,Not Approved
+LP002496,Not Approved
+LP002523,Approved
+LP002542,Approved
+LP002550,Approved
+LP002551,Not Approved
+LP002553,Approved
+LP002554,Approved
+LP002561,Approved
+LP002566,Approved
+LP002568,Approved
+LP002570,Approved
+LP002572,Approved
+LP002581,Approved
+LP002584,Approved
+LP002592,Approved
+LP002593,Approved
+LP002599,Approved
+LP002604,Approved
+LP002605,Approved
+LP002609,Not Approved
+LP002610,Approved
+LP002612,Approved
+LP002614,Approved
+LP002630,Approved
+LP002635,Approved
+LP002639,Approved
+LP002644,Approved
+LP002651,Not Approved
+LP002654,Approved
+LP002657,Approved
+LP002711,Approved
+LP002712,Approved
+LP002721,Approved
+LP002735,Approved
+LP002744,Approved
+LP002745,Approved
+LP002746,Approved
+LP002747,Not Approved
+LP002754,Approved
+LP002759,Approved
+LP002760,Approved
+LP002766,Approved
+LP002769,Approved
+LP002774,Not Approved
+LP002775,Approved
+LP002781,Approved
+LP002782,Approved
+LP002786,Approved
+LP002790,Approved
+LP002791,Approved
+LP002793,Approved
+LP002802,Not Approved
+LP002803,Approved
+LP002805,Approved
+LP002806,Approved
+LP002816,Approved
+LP002823,Approved
+LP002825,Approved
+LP002826,Approved
+LP002843,Approved
+LP002849,Approved
+LP002850,Approved
+LP002853,Approved
+LP002856,Approved
+LP002857,Approved
+LP002858,Not Approved
+LP002860,Approved
+LP002867,Approved
+LP002869,Not Approved
+LP002870,Approved
+LP002876,Approved
+LP002878,Approved
+LP002879,Not Approved
+LP002885,Approved
+LP002890,Approved
+LP002891,Approved
+LP002899,Approved
+LP002901,Approved
+LP002907,Approved
+LP002920,Approved
+LP002921,Not Approved
+LP002932,Approved
+LP002935,Approved
+LP002952,Approved
+LP002954,Approved
+LP002962,Approved
+LP002965,Approved
+LP002969,Approved
+LP002971,Approved
+LP002975,Approved
+LP002980,Approved
+LP002986,Approved
+LP002989,Approved
